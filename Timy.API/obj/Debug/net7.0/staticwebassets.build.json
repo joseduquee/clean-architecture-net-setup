@@ -1,8 +1,8 @@
 {
   "Version": 1,
-  "Hash": "O45mES11rD1bTC5bmhbagyu6D7pEfbgJiqfH6jhqqQk=",
-  "Source": "Timy.API",
-  "BasePath": "_content/Timy.API",
+  "Hash": "kGTLKZpDUV4q+tTdjgYHxlhUg6+CmCrBydvrT3u28rI=",
+  "Source": "TimyApp.API",
+  "BasePath": "_content/TimyApp.API",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],

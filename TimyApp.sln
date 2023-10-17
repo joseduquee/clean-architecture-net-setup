@@ -14,6 +14,9 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{B834451A-B728-4A24-A5B7-FFB977EC0AF8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimyApp.Infrastructure", "TimyApp.Infrastructure\TimyApp.Infrastructure.csproj", "{546C2E50-B731-4BD0-A5BE-F4B0EDA90F95}"
+	ProjectSection(ProjectDependencies) = postProject
+		{E14C6F53-5B0B-413E-A3CB-488B57E0251F} = {E14C6F53-5B0B-413E-A3CB-488B57E0251F}
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimyApp.Persistence", "TimyApp.Persistence\TimyApp.Persistence.csproj", "{57CD8EB5-D916-4F89-875F-6A5317EA660B}"
 EndProject

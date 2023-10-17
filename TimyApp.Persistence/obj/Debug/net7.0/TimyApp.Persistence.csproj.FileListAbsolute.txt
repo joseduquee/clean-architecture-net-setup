@@ -10,3 +10,8 @@ C:\Users\josed\Documents\Dev\.NET\TimyApp\TimyApp.Persistence\obj\Debug\net7.0\T
 C:\Users\josed\Documents\Dev\.NET\TimyApp\TimyApp.Persistence\obj\Debug\net7.0\refint\TimyApp.Persistence.dll
 C:\Users\josed\Documents\Dev\.NET\TimyApp\TimyApp.Persistence\obj\Debug\net7.0\TimyApp.Persistence.pdb
 C:\Users\josed\Documents\Dev\.NET\TimyApp\TimyApp.Persistence\obj\Debug\net7.0\ref\TimyApp.Persistence.dll
+C:\Users\josed\Documents\Dev\.NET\TimyApp\TimyApp.Persistence\bin\Debug\net7.0\TimyApp.Application.dll
+C:\Users\josed\Documents\Dev\.NET\TimyApp\TimyApp.Persistence\bin\Debug\net7.0\TimyApp.Domain.dll
+C:\Users\josed\Documents\Dev\.NET\TimyApp\TimyApp.Persistence\bin\Debug\net7.0\TimyApp.Application.pdb
+C:\Users\josed\Documents\Dev\.NET\TimyApp\TimyApp.Persistence\bin\Debug\net7.0\TimyApp.Domain.pdb
+C:\Users\josed\Documents\Dev\.NET\TimyApp\TimyApp.Persistence\obj\Debug\net7.0\TimyApp.Persistence.csproj.CopyComplete
