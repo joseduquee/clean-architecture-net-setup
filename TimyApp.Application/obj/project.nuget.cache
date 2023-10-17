@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "/24jMzvpDIBBcPvG1A8dl4reZ6P8rDZxy8N1SWO7FeyRizw55hF6roGOT0FhtAIXcYTEBxinBhjSXnZV58SFew==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\josed\\Documents\\Dev\\.NET\\TimyApp\\TimyApp.Application\\TimyApp.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\josed\\.nuget\\packages\\fluentvalidation\\11.7.1\\fluentvalidation.11.7.1.nupkg.sha512",
+    "C:\\Users\\josed\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.7.1\\fluentvalidation.dependencyinjectionextensions.11.7.1.nupkg.sha512",
+    "C:\\Users\\josed\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
+    "C:\\Users\\josed\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\josed\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

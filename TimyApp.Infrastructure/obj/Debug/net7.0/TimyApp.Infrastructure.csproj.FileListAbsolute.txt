@@ -1,0 +1,12 @@
+C:\Users\josed\Documents\Dev\.NET\TimyApp\TimyApp.Infrastructure\bin\Debug\net7.0\TimyApp.Infrastructure.deps.json
+C:\Users\josed\Documents\Dev\.NET\TimyApp\TimyApp.Infrastructure\bin\Debug\net7.0\TimyApp.Infrastructure.dll
+C:\Users\josed\Documents\Dev\.NET\TimyApp\TimyApp.Infrastructure\bin\Debug\net7.0\TimyApp.Infrastructure.pdb
+C:\Users\josed\Documents\Dev\.NET\TimyApp\TimyApp.Infrastructure\obj\Debug\net7.0\TimyApp.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\josed\Documents\Dev\.NET\TimyApp\TimyApp.Infrastructure\obj\Debug\net7.0\TimyApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josed\Documents\Dev\.NET\TimyApp\TimyApp.Infrastructure\obj\Debug\net7.0\TimyApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\josed\Documents\Dev\.NET\TimyApp\TimyApp.Infrastructure\obj\Debug\net7.0\TimyApp.Infrastructure.AssemblyInfo.cs
+C:\Users\josed\Documents\Dev\.NET\TimyApp\TimyApp.Infrastructure\obj\Debug\net7.0\TimyApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\josed\Documents\Dev\.NET\TimyApp\TimyApp.Infrastructure\obj\Debug\net7.0\TimyApp.Infrastructure.dll
+C:\Users\josed\Documents\Dev\.NET\TimyApp\TimyApp.Infrastructure\obj\Debug\net7.0\refint\TimyApp.Infrastructure.dll
+C:\Users\josed\Documents\Dev\.NET\TimyApp\TimyApp.Infrastructure\obj\Debug\net7.0\TimyApp.Infrastructure.pdb
+C:\Users\josed\Documents\Dev\.NET\TimyApp\TimyApp.Infrastructure\obj\Debug\net7.0\ref\TimyApp.Infrastructure.dll

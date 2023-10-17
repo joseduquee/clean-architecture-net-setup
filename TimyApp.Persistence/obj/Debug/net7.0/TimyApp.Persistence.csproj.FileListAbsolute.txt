@@ -1,0 +1,12 @@
+C:\Users\josed\Documents\Dev\.NET\TimyApp\TimyApp.Persistence\bin\Debug\net7.0\TimyApp.Persistence.deps.json
+C:\Users\josed\Documents\Dev\.NET\TimyApp\TimyApp.Persistence\bin\Debug\net7.0\TimyApp.Persistence.dll
+C:\Users\josed\Documents\Dev\.NET\TimyApp\TimyApp.Persistence\bin\Debug\net7.0\TimyApp.Persistence.pdb
+C:\Users\josed\Documents\Dev\.NET\TimyApp\TimyApp.Persistence\obj\Debug\net7.0\TimyApp.Persistence.csproj.AssemblyReference.cache
+C:\Users\josed\Documents\Dev\.NET\TimyApp\TimyApp.Persistence\obj\Debug\net7.0\TimyApp.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josed\Documents\Dev\.NET\TimyApp\TimyApp.Persistence\obj\Debug\net7.0\TimyApp.Persistence.AssemblyInfoInputs.cache
+C:\Users\josed\Documents\Dev\.NET\TimyApp\TimyApp.Persistence\obj\Debug\net7.0\TimyApp.Persistence.AssemblyInfo.cs
+C:\Users\josed\Documents\Dev\.NET\TimyApp\TimyApp.Persistence\obj\Debug\net7.0\TimyApp.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\josed\Documents\Dev\.NET\TimyApp\TimyApp.Persistence\obj\Debug\net7.0\TimyApp.Persistence.dll
+C:\Users\josed\Documents\Dev\.NET\TimyApp\TimyApp.Persistence\obj\Debug\net7.0\refint\TimyApp.Persistence.dll
+C:\Users\josed\Documents\Dev\.NET\TimyApp\TimyApp.Persistence\obj\Debug\net7.0\TimyApp.Persistence.pdb
+C:\Users\josed\Documents\Dev\.NET\TimyApp\TimyApp.Persistence\obj\Debug\net7.0\ref\TimyApp.Persistence.dll

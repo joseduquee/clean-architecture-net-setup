@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "826SfNvjjWsp9TyJYYLJlQ7XiwoF7uXQQPr6vmX9xNlWu2utpdwLK2zp528gwW5lVuUcsza0pyge576OBKapng==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\josed\\Documents\\Dev\\.NET\\TimyApp\\TimyApp.Infrastructure\\TimyApp.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\josed\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

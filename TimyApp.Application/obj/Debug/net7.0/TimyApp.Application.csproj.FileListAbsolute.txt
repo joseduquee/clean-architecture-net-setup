@@ -1,0 +1,15 @@
+C:\Users\josed\Documents\Dev\.NET\TimyApp\TimyApp.Application\bin\Debug\net7.0\TimyApp.Application.deps.json
+C:\Users\josed\Documents\Dev\.NET\TimyApp\TimyApp.Application\bin\Debug\net7.0\TimyApp.Application.dll
+C:\Users\josed\Documents\Dev\.NET\TimyApp\TimyApp.Application\bin\Debug\net7.0\TimyApp.Application.pdb
+C:\Users\josed\Documents\Dev\.NET\TimyApp\TimyApp.Application\bin\Debug\net7.0\TimyApp.Domain.dll
+C:\Users\josed\Documents\Dev\.NET\TimyApp\TimyApp.Application\bin\Debug\net7.0\TimyApp.Domain.pdb
+C:\Users\josed\Documents\Dev\.NET\TimyApp\TimyApp.Application\obj\Debug\net7.0\TimyApp.Application.csproj.AssemblyReference.cache
+C:\Users\josed\Documents\Dev\.NET\TimyApp\TimyApp.Application\obj\Debug\net7.0\TimyApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josed\Documents\Dev\.NET\TimyApp\TimyApp.Application\obj\Debug\net7.0\TimyApp.Application.AssemblyInfoInputs.cache
+C:\Users\josed\Documents\Dev\.NET\TimyApp\TimyApp.Application\obj\Debug\net7.0\TimyApp.Application.AssemblyInfo.cs
+C:\Users\josed\Documents\Dev\.NET\TimyApp\TimyApp.Application\obj\Debug\net7.0\TimyApp.Application.csproj.CoreCompileInputs.cache
+C:\Users\josed\Documents\Dev\.NET\TimyApp\TimyApp.Application\obj\Debug\net7.0\TimyApp.Application.csproj.CopyComplete
+C:\Users\josed\Documents\Dev\.NET\TimyApp\TimyApp.Application\obj\Debug\net7.0\TimyApp.Application.dll
+C:\Users\josed\Documents\Dev\.NET\TimyApp\TimyApp.Application\obj\Debug\net7.0\refint\TimyApp.Application.dll
+C:\Users\josed\Documents\Dev\.NET\TimyApp\TimyApp.Application\obj\Debug\net7.0\TimyApp.Application.pdb
+C:\Users\josed\Documents\Dev\.NET\TimyApp\TimyApp.Application\obj\Debug\net7.0\ref\TimyApp.Application.dll

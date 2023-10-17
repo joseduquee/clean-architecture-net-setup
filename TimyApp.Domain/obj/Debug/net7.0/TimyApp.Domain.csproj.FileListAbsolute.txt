@@ -1,0 +1,11 @@
+C:\Users\josed\Documents\Dev\.NET\TimyApp\TimyApp.Domain\bin\Debug\net7.0\TimyApp.Domain.deps.json
+C:\Users\josed\Documents\Dev\.NET\TimyApp\TimyApp.Domain\bin\Debug\net7.0\TimyApp.Domain.dll
+C:\Users\josed\Documents\Dev\.NET\TimyApp\TimyApp.Domain\bin\Debug\net7.0\TimyApp.Domain.pdb
+C:\Users\josed\Documents\Dev\.NET\TimyApp\TimyApp.Domain\obj\Debug\net7.0\TimyApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josed\Documents\Dev\.NET\TimyApp\TimyApp.Domain\obj\Debug\net7.0\TimyApp.Domain.AssemblyInfoInputs.cache
+C:\Users\josed\Documents\Dev\.NET\TimyApp\TimyApp.Domain\obj\Debug\net7.0\TimyApp.Domain.AssemblyInfo.cs
+C:\Users\josed\Documents\Dev\.NET\TimyApp\TimyApp.Domain\obj\Debug\net7.0\TimyApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\josed\Documents\Dev\.NET\TimyApp\TimyApp.Domain\obj\Debug\net7.0\TimyApp.Domain.dll
+C:\Users\josed\Documents\Dev\.NET\TimyApp\TimyApp.Domain\obj\Debug\net7.0\refint\TimyApp.Domain.dll
+C:\Users\josed\Documents\Dev\.NET\TimyApp\TimyApp.Domain\obj\Debug\net7.0\TimyApp.Domain.pdb
+C:\Users\josed\Documents\Dev\.NET\TimyApp\TimyApp.Domain\obj\Debug\net7.0\ref\TimyApp.Domain.dll

@@ -1,0 +1,7 @@
+C:\Users\josed\Documents\Dev\.NET\TimyApp\Timy.API\obj\Debug\net7.0\TimyApp.API.csproj.AssemblyReference.cache
+C:\Users\josed\Documents\Dev\.NET\TimyApp\Timy.API\obj\Debug\net7.0\TimyApp.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josed\Documents\Dev\.NET\TimyApp\Timy.API\obj\Debug\net7.0\TimyApp.API.AssemblyInfoInputs.cache
+C:\Users\josed\Documents\Dev\.NET\TimyApp\Timy.API\obj\Debug\net7.0\TimyApp.API.AssemblyInfo.cs
+C:\Users\josed\Documents\Dev\.NET\TimyApp\Timy.API\obj\Debug\net7.0\TimyApp.API.csproj.CoreCompileInputs.cache
+C:\Users\josed\Documents\Dev\.NET\TimyApp\Timy.API\obj\Debug\net7.0\TimyApp.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\josed\Documents\Dev\.NET\TimyApp\Timy.API\obj\Debug\net7.0\TimyApp.API.MvcApplicationPartsAssemblyInfo.cache
