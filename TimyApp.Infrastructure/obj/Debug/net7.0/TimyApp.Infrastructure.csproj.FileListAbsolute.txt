@@ -10,3 +10,8 @@ C:\Users\josed\Documents\Dev\.NET\TimyApp\TimyApp.Infrastructure\obj\Debug\net7.
 C:\Users\josed\Documents\Dev\.NET\TimyApp\TimyApp.Infrastructure\obj\Debug\net7.0\refint\TimyApp.Infrastructure.dll
 C:\Users\josed\Documents\Dev\.NET\TimyApp\TimyApp.Infrastructure\obj\Debug\net7.0\TimyApp.Infrastructure.pdb
 C:\Users\josed\Documents\Dev\.NET\TimyApp\TimyApp.Infrastructure\obj\Debug\net7.0\ref\TimyApp.Infrastructure.dll
+C:\Users\josed\Documents\Dev\.NET\TimyApp\TimyApp.Infrastructure\bin\Debug\net7.0\TimyApp.Application.dll
+C:\Users\josed\Documents\Dev\.NET\TimyApp\TimyApp.Infrastructure\bin\Debug\net7.0\TimyApp.Domain.dll
+C:\Users\josed\Documents\Dev\.NET\TimyApp\TimyApp.Infrastructure\bin\Debug\net7.0\TimyApp.Application.pdb
+C:\Users\josed\Documents\Dev\.NET\TimyApp\TimyApp.Infrastructure\bin\Debug\net7.0\TimyApp.Domain.pdb
+C:\Users\josed\Documents\Dev\.NET\TimyApp\TimyApp.Infrastructure\obj\Debug\net7.0\TimyApp.Infrastructure.csproj.CopyComplete

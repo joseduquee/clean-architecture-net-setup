@@ -1,5 +1,8 @@
 using Serilog;
+using System.Diagnostics;
+using TimyApp.API.Middleware;
 using TimyApp.Application;
+using TimyApp.Identity;
 using TimyApp.Infrastructure;
 using TimyApp.Persistence;
 
@@ -12,15 +15,32 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-builder.Services
-    .AddApplicationServices()
-    .AddInfrastructureeServices()
-    .AddPersistenceServices();
+builder.Services.AddApplicationServices();
+builder.Services.AddInfrastructureServices(builder.Configuration);
+builder.Services.AddPersistenceServices(builder.Configuration);
+builder.Services.AddIdentityServices(builder.Configuration);
+
+builder.Services.AddCors(options =>
+    options.AddPolicy("CorsPolicy", builder => builder
+    .AllowAnyOrigin()
+    .AllowAnyHeader()));
 
 builder.Host.UseSerilog((context, configuration) =>
     configuration.ReadFrom.Configuration(context.Configuration));
 
 var app = builder.Build();
+
+// debugg
+//app.Use((context, next) =>
+//{
+//    context.Response.OnStarting(() =>
+//    {
+//        Debugger.Break();
+//        return Task.CompletedTask;
+//    });
+
+//    return next();
+//});
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
@@ -29,11 +49,16 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
+
 app.UseSerilogRequestLogging();
 
 app.UseHttpsRedirection();
 
-app.UseAuthorization();
+app.UseMiddleware<ExceptionHandlerMiddleware>();
+
+app.UseAuthorization(); 
+
+app.UseCors("CorsPolicy");
 
 app.MapControllers();
 

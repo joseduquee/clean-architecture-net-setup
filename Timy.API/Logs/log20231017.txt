@@ -1,0 +1,1 @@
+2023-10-17 22:27:13.001 +02:00 [INF] HTTP GET /WeatherForecast responded 200 in 30.3759 ms

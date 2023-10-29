@@ -7,22 +7,24 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{21D30D5E-2B6
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{53652356-E47B-40D9-8747-3E09CB8EFCE8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimyApp.Domain", "TimyApp.Domain\TimyApp.Domain.csproj", "{F42B504E-8F06-43E2-A1F7-4D8C1AD9C6E3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TimyApp.Domain", "TimyApp.Domain\TimyApp.Domain.csproj", "{F42B504E-8F06-43E2-A1F7-4D8C1AD9C6E3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimyApp.Application", "TimyApp.Application\TimyApp.Application.csproj", "{E14C6F53-5B0B-413E-A3CB-488B57E0251F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TimyApp.Application", "TimyApp.Application\TimyApp.Application.csproj", "{E14C6F53-5B0B-413E-A3CB-488B57E0251F}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{B834451A-B728-4A24-A5B7-FFB977EC0AF8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimyApp.Infrastructure", "TimyApp.Infrastructure\TimyApp.Infrastructure.csproj", "{546C2E50-B731-4BD0-A5BE-F4B0EDA90F95}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TimyApp.Infrastructure", "TimyApp.Infrastructure\TimyApp.Infrastructure.csproj", "{546C2E50-B731-4BD0-A5BE-F4B0EDA90F95}"
 	ProjectSection(ProjectDependencies) = postProject
 		{E14C6F53-5B0B-413E-A3CB-488B57E0251F} = {E14C6F53-5B0B-413E-A3CB-488B57E0251F}
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimyApp.Persistence", "TimyApp.Persistence\TimyApp.Persistence.csproj", "{57CD8EB5-D916-4F89-875F-6A5317EA660B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TimyApp.Persistence", "TimyApp.Persistence\TimyApp.Persistence.csproj", "{57CD8EB5-D916-4F89-875F-6A5317EA660B}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{644EFD3C-E3E6-4320-A94A-5342697FC17D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimyApp.API", "Timy.API\TimyApp.API.csproj", "{568B5C4C-D9E9-48E5-8012-DB2678CFF7B2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TimyApp.API", "Timy.API\TimyApp.API.csproj", "{568B5C4C-D9E9-48E5-8012-DB2678CFF7B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimyApp.Identity", "TimyApp.Identity\TimyApp.Identity.csproj", "{E8119E1F-A8BF-45DB-97B6-1A9BA4D4E53D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -50,6 +52,10 @@ Global
 		{568B5C4C-D9E9-48E5-8012-DB2678CFF7B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{568B5C4C-D9E9-48E5-8012-DB2678CFF7B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{568B5C4C-D9E9-48E5-8012-DB2678CFF7B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8119E1F-A8BF-45DB-97B6-1A9BA4D4E53D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8119E1F-A8BF-45DB-97B6-1A9BA4D4E53D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8119E1F-A8BF-45DB-97B6-1A9BA4D4E53D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8119E1F-A8BF-45DB-97B6-1A9BA4D4E53D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -63,6 +69,7 @@ Global
 		{57CD8EB5-D916-4F89-875F-6A5317EA660B} = {B834451A-B728-4A24-A5B7-FFB977EC0AF8}
 		{644EFD3C-E3E6-4320-A94A-5342697FC17D} = {21D30D5E-2B67-43B5-B76C-3A589A67E59A}
 		{568B5C4C-D9E9-48E5-8012-DB2678CFF7B2} = {644EFD3C-E3E6-4320-A94A-5342697FC17D}
+		{E8119E1F-A8BF-45DB-97B6-1A9BA4D4E53D} = {B834451A-B728-4A24-A5B7-FFB977EC0AF8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B5200955-5E52-45C5-BF4A-07332843088B}

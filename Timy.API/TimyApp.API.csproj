@@ -8,12 +8,17 @@
 
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="7.0.12" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="7.0.12">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
     <PackageReference Include="Serilog.AspNetCore" Version="7.0.0" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\TimyApp.Application\TimyApp.Application.csproj" />
+    <ProjectReference Include="..\TimyApp.Identity\TimyApp.Identity.csproj" />
     <ProjectReference Include="..\TimyApp.Infrastructure\TimyApp.Infrastructure.csproj" />
     <ProjectReference Include="..\TimyApp.Persistence\TimyApp.Persistence.csproj" />
   </ItemGroup>
